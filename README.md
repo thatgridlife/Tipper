@@ -2,7 +2,7 @@
 
 This is an iOS demo application for calculating tip and total for a bill. 
 
-Hours Spent: 8 hrs
+Hours Spent: 9-10 hrs
 
 #####Stories
 * Required: User can select preset tip amounts
@@ -10,8 +10,9 @@ Hours Spent: 8 hrs
 * Optional: Custom option that allows users to type in a custom percent amount 
 
 Notes:
-Spent some time making the UI work across multiple phone resolutions by playing around with the RelativeLayout
+Spent some time trying to make the app clean/understandable/approachable. I didn't want just a pure calculator. To play with the preset options, I attached words to the percentages rather than just show percentages. Initially when the app is open it lands on the preset average. I also incorporated a custom feature. 
 
-GIF walkthrough of all required and optional stories
+I tried to pay attention to some small details such as landing the user into the app with the cursor blinking in the text field already. I do the same when a user clicks custom. This way user knows that now they can type. I remove tip and total until the user starts engaging with the app and don't remove it after user has interacted with it. 
+
 [Video Walkthrough] (http://www.gfycat.com/GrimyBrilliantFlycatcher)
 
