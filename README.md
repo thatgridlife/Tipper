@@ -14,4 +14,4 @@ Spent some time making the UI work across multiple phone resolutions by playing 
 
 GIF walkthrough of all required and optional stories
 
-![Video Walkthrough](tipper.gif)
+< img> (tipper.gif) /img>
