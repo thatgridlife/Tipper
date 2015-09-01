@@ -409,6 +409,7 @@
 				C3D2AA271B8AF8F3002070A5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C3D2AA281B8AF8F3002070A5 /* Build configuration list for PBXNativeTarget "TipperTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +418,7 @@
 				C3D2AA2A1B8AF8F3002070A5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
