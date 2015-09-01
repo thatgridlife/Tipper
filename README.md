@@ -13,5 +13,5 @@ Notes:
 Spent some time making the UI work across multiple phone resolutions by playing around with the RelativeLayout
 
 GIF walkthrough of all required and optional stories
+[Video Walkthrough] (http://www.gfycat.com/GrimyBrilliantFlycatcher)
 
-< img> (tipper.gif) /img>
